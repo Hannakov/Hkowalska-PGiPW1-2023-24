@@ -3407,3 +3407,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.27-18.15.57:834][323]AssetCheck: New page: Asset Save: labirynt1Final
 [2023.11.27-18.15.57:834][323]LogContentValidation: Display: Validating World /Game/labirynt1Final.labirynt1Final
 [2023.11.27-18.16.20:410][ 47]LogSlate: Window 'Save Level As' being destroyed
+[2023.11.27-18.17.50:418][ 55]LogObjectTools: Deleting 1 worlds: /Game/NewMap.NewMap
+[2023.11.27-18.17.50:418][ 55]LogObjectTools: Currently 3 active worlds: /Game/labirynt1Final.labirynt1Final, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.11.27-18.17.50:541][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.11.27-18.17.52:774][ 55]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.27-18.17.52:801][ 55]LogWorld: UWorld::CleanupWorld for NewMap, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-18.17.52:801][ 55]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-18.17.52:865][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.27-18.17.52:879][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2023.11.27-18.17.52:901][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2023.11.27-18.17.52:914][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2023.11.27-18.17.55:119][307]LogObjectTools: Deleting 1 worlds: /Game/move.move
+[2023.11.27-18.17.55:119][307]LogObjectTools: Currently 3 active worlds: /Game/labirynt1Final.labirynt1Final, /Engine/Transient.World_0, /Engine/Transient.World_1
+[2023.11.27-18.17.55:134][307]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2023.11.27-18.17.56:974][307]LogSlate: Window 'Delete Assets' being destroyed
+[2023.11.27-18.17.57:000][307]LogWorld: UWorld::CleanupWorld for move, bSessionEnded=true, bCleanupResources=true
+[2023.11.27-18.17.57:000][307]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.11.27-18.17.57:049][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2023.11.27-18.17.57:062][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.11.27-18.17.57:082][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2023.11.27-18.17.57:094][307]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2023.11.27-18.18.02:100][906]LogSlate: Window 'Open Level' being destroyed
