@@ -3401,3 +3401,9 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.11.27-18.12.16:683][604]LogFileHelpers: Loading map 'labirynt1Final' took 0.364
 [2023.11.27-18.12.16:691][604]AssetCheck: New page: Asset Save: labirynt1Final
 [2023.11.27-18.12.16:691][604]LogContentValidation: Display: Validating World /Game/labirynt1Final.labirynt1Final
+[2023.11.27-18.15.27:099][724]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2023.11.27-18.15.57:793][323]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.11.27-18.15.57:819][323]LogSavePackage: Moving '../../../../../../Users/1/Documents/GitHub/Hkowalska-PGiPW1-2023-24/projekcik/Saved/labirynt1Final2A99DA8F460C1EF78324C285BB189086.tmp' to '../../../../../../Users/1/Documents/GitHub/Hkowalska-PGiPW1-2023-24/projekcik/Content/labirynt1Final.umap'
+[2023.11.27-18.15.57:834][323]AssetCheck: New page: Asset Save: labirynt1Final
+[2023.11.27-18.15.57:834][323]LogContentValidation: Display: Validating World /Game/labirynt1Final.labirynt1Final
+[2023.11.27-18.16.20:410][ 47]LogSlate: Window 'Save Level As' being destroyed
